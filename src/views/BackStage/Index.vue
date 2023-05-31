@@ -438,7 +438,6 @@ export default {
     update(row) {
       // 弹出对话框
       this.dialogFormVisible = true;
-      console.log(row);
       // 拿到当前数据
       (this.form.id = row.id),
         (this.form.Name = row.Name),

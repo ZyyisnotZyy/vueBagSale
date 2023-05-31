@@ -14,7 +14,7 @@
       <dl>
         <dt>配送地点</dt>
         <dd>
-          <el-button size="small" plain> 河南省新乡市红旗区新乡学院 </el-button>
+          <el-button size="small" plain> XX 大学 生活区</el-button>
         </dd>
       </dl>
       <dl>
