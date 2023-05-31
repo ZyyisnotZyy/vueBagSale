@@ -292,6 +292,20 @@ export default {
           console.log(err);
         });
     },
+    // 拿到购物车数量
+    getCartNum() {
+      axios
+        .get("http://localhost:3000/cart/many")
+        .then(({ data }) => {
+          // 当切换到其它页面后 ==> 读取到 store 中 购物车的数量 ==> 放置数量丢失
+          // 现在需要从数据库中获取当前的值
+          // 把商品数量发送到 store
+          this.$store.commit("cart/getGoodsNum", data[0].many);
+        })
+        .catch((err) => {
+          console.log(err);
+        });
+    },
     // 删除商品
     del(row) {
       // 拿到删除的 id ==> 删除商品
@@ -359,6 +373,8 @@ export default {
           this.dialogFormVisible_Add = false;
           // 重新渲染数据
           this.getAllCart();
+          // 重新渲染数据还要拿到购物车的数量
+          this.getCartNum();
         })
         .catch((err) => {
           // 添加失败

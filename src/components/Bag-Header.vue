@@ -52,7 +52,9 @@ export default {
   data() {
     return {
       value: true,
-      carNum: 0,
+      // 默认从 store 中取数据
+      //carNum: 0,
+      carNum: this.$store.state.cart.cartGoodsNum,
     };
   },
   mounted() {

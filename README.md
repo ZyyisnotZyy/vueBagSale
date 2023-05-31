@@ -1,6 +1,11 @@
-# bag
+# Vue+Element-Ui 课设_实现的一个背包销售管理系统(有后台)
 
-## Project setup
+## 第一步
+
+### 修改自己的 navicat 数据表以及 mysql 密码
+
+
+
 ```
 npm install
 ```
@@ -15,5 +20,7 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+
