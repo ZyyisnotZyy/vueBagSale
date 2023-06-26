@@ -38,6 +38,8 @@ npm install
 
 [![4.png](https://img1.imgtp.com/2023/06/26/fFSLiv29.png)](https://img1.imgtp.com/2023/06/26/fFSLiv29.png)
 
+[![10.png](https://img1.imgtp.com/2023/06/26/ySEp0mmG.png)](https://img1.imgtp.com/2023/06/26/ySEp0mmG.png)
+
 [![5.png](https://img1.imgtp.com/2023/06/26/3FuANh6M.png)](https://img1.imgtp.com/2023/06/26/3FuANh6M.png)
 
 
