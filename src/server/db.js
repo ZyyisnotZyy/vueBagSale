@@ -4,10 +4,9 @@ let db = mysql.createPool({
   // 配置数据库IP地址
   host: "127.0.0.1",
   user: "root",
-  // mysql 密码
-  password: "",
+  password: "Zyy123",
   // 连接数据库的名字
-  database: "",
+  database: "vuebags",
 });
 
 module.exports = db;

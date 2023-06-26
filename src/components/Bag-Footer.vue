@@ -19,9 +19,9 @@
         </div>
         <!-- 版权信息 -->
         <div class="copyright">
-          <p>XX大学 </p>
-          <p>XX班级 </p>
-          <p>XX姓名 </p>
+          <p>新乡学院 计算机与信息工程学院</p>
+          <p>2020级XXX</p>
+          <p>XXX XXX</p>
         </div>
       </div>
     </div>

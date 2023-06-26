@@ -5,15 +5,8 @@
 </template>
 
 <script>
-import Layout from "./views/Layout.vue";
 export default {
   name: "App",
-  data() {
-    return {};
-  },
-  components: {
-    Layout,
-  },
 };
 </script>
 
