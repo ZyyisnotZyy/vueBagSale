@@ -11,12 +11,12 @@
 
 在 src -> server -> db.js 中修改配置(navicat 数据库名字以及 mysql 密码)
 
-[![https://s2.xptou.com/2023/05/31/6476a964dec63.png](https://s2.xptou.com/2023/05/31/6476a964dec63.png)](https://s2.xptou.com/2023/05/31/6476a964dec63.png)
+[![1.png](https://img1.imgtp.com/2023/06/26/Gx49M3ag.png)](https://img1.imgtp.com/2023/06/26/Gx49M3ag.png)/s2.xptou.com/2023/05/31/6476a964dec63.png)
 
 ## 第二步
 在 navicat 中 导入 getcartoptions  和 showgoods1 两个数据表
 
-[![https://s2.xptou.com/2023/05/31/6476a98ab4c97.png](https://s2.xptou.com/2023/05/31/6476a98ab4c97.png)](https://s2.xptou.com/2023/05/31/6476a98ab4c97.png)
+[![2.png](https://img1.imgtp.com/2023/06/26/NPOyU6cg.png)](https://img1.imgtp.com/2023/06/26/NPOyU6cg.png)
 
 ## 第三步
 
@@ -40,9 +40,11 @@ npm install
 
 以下是项目的一些基本截图
 
-[![https://s2.xptou.com/2023/05/31/6476ab7ddb42e.png](https://s2.xptou.com/2023/05/31/6476ab7ddb42e.png)](https://s2.xptou.com/2023/05/31/6476ab7ddb42e.png)
+[![3.png](https://img1.imgtp.com/2023/06/26/7O17cNLH.png)](https://img1.imgtp.com/2023/06/26/7O17cNLH.png)
 
-[![https://s2.xptou.com/2023/05/31/6476ab92bc8d7.png](https://s2.xptou.com/2023/05/31/6476ab92bc8d7.png)](https://s2.xptou.com/2023/05/31/6476ab92bc8d7.png)
+[![4.png](https://img1.imgtp.com/2023/06/26/fFSLiv29.png)](https://img1.imgtp.com/2023/06/26/fFSLiv29.png)
 
-[![https://s2.xptou.com/2023/05/31/6476aba02e9ea.png](https://s2.xptou.com/2023/05/31/6476aba02e9ea.png)](https://s2.xptou.com/2023/05/31/6476aba02e9ea.png)
+[![5.png](https://img1.imgtp.com/2023/06/26/3FuANh6M.png)](https://img1.imgtp.com/2023/06/26/3FuANh6M.png)
+
+
 
