@@ -5,7 +5,7 @@
 
 在 src -> server -> db.js 中修改配置(navicat 数据库名字以及 mysql 密码)
 
-[![1.png](https://img1.imgtp.com/2023/06/26/Gx49M3ag.png)](https://img1.imgtp.com/2023/06/26/Gx49M3ag.png)/s2.xptou.com/2023/05/31/6476a964dec63.png)
+[![1.png](https://img1.imgtp.com/2023/06/26/Gx49M3ag.png)](https://img1.imgtp.com/2023/06/26/Gx49M3ag.png)
 
 ## 第二步
 在 navicat 中 导入 getcartoptions  和 showgoods1 两个数据表
