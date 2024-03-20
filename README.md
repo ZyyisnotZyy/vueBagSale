@@ -5,12 +5,12 @@
 
 在 src -> server -> db.js 中修改配置(navicat 数据库名字以及 mysql 密码)
 
-[![1.png](https://img1.imgtp.com/2023/06/26/Gx49M3ag.png)](https://img1.imgtp.com/2023/06/26/Gx49M3ag.png)
+![后台1.png](https://img2.imgtp.com/2024/03/20/ptnv6r4M.png)
 
 ## 第二步
 在 navicat 中 导入 getcartoptions  和 showgoods1 两个数据表
 
-[![2.png](https://img1.imgtp.com/2023/06/26/NPOyU6cg.png)](https://img1.imgtp.com/2023/06/26/NPOyU6cg.png)
+![后台2.png](https://img2.imgtp.com/2024/03/20/oqxgs4ZH.png)
 
 ## 第三步
 
@@ -34,13 +34,9 @@ npm install
 
 以下是项目的一些基本截图
 
-[![3.png](https://img1.imgtp.com/2023/06/26/7O17cNLH.png)](https://img1.imgtp.com/2023/06/26/7O17cNLH.png)
+![首页.png](https://img2.imgtp.com/2024/03/20/2sZRRneZ.png)
 
-[![4.png](https://img1.imgtp.com/2023/06/26/fFSLiv29.png)](https://img1.imgtp.com/2023/06/26/fFSLiv29.png)
-
-[![11.png](https://img1.imgtp.com/2023/06/26/WefjA6Zs.png)](https://img1.imgtp.com/2023/06/26/WefjA6Zs.png)
-
-[![5.png](https://img1.imgtp.com/2023/06/26/3FuANh6M.png)](https://img1.imgtp.com/2023/06/26/3FuANh6M.png)
+![详情.png](https://img2.imgtp.com/2024/03/20/5nMO4bAF.png)![购物车.png](https://img2.imgtp.com/2024/03/20/shxp247q.png)![后台.png](https://img2.imgtp.com/2024/03/20/JBo9938D.png)
 
 
 
