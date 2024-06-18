@@ -5,12 +5,12 @@
 
 在 src -> server -> db.js 中修改配置(navicat 数据库名字以及 mysql 密码)
 
-![后台1.png](https://img2.imgtp.com/2024/03/20/ptnv6r4M.png)
+![](https://gitee.com/zyyisnotzyy/imgbed/raw/master/%E5%90%8E%E5%8F%B01.png)
 
 ## 第二步
 在 navicat 中 导入 getcartoptions  和 showgoods1 两个数据表
 
-![后台2.png](https://img2.imgtp.com/2024/03/20/oqxgs4ZH.png)
+![](https://gitee.com/zyyisnotzyy/imgbed/raw/master/%E5%90%8E%E5%8F%B02.png)
 
 ## 第三步
 
@@ -34,9 +34,10 @@ npm install
 
 以下是项目的一些基本截图
 
-![首页.png](https://img2.imgtp.com/2024/03/20/2sZRRneZ.png)
+![](https://gitee.com/zyyisnotzyy/imgbed/raw/master/%E9%A6%96%E9%A1%B5.png)
 
-![详情.png](https://img2.imgtp.com/2024/03/20/5nMO4bAF.png)![购物车.png](https://img2.imgtp.com/2024/03/20/shxp247q.png)![后台.png](https://img2.imgtp.com/2024/03/20/JBo9938D.png)
+![](https://gitee.com/zyyisnotzyy/imgbed/raw/master/%E8%AF%A6%E6%83%85.png)
 
+![](https://gitee.com/zyyisnotzyy/imgbed/raw/master/%E8%B4%AD%E7%89%A9%E8%BD%A6.png)
 
-
+![](https://gitee.com/zyyisnotzyy/imgbed/raw/master/%E5%90%8E%E5%8F%B0.png)
